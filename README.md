@@ -23,7 +23,7 @@ node main send alice bob "Hello"
 
 4. View the mailbox for bob:
 ```
-node main send alice bob "Hello"
+node main mailbox bob
 ```
 
 ## How does it works?
